@@ -1,0 +1,7 @@
+This is a completed assembler for SIC.
+The code is very not-DRY :(
+I wrote it when I was in college.
+Had I known better I would have done better (See FUTURE directory for example).
+It is complete and errors out for all (most?) error syntaxes.
+For details please refer to Leland L. Beck, “System Software – An Introduction to Systems Programming"
+
